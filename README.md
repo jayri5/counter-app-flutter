@@ -1,1 +1,1 @@
-A counter application that counts how many times you press a button. You can restart the counter to start from 0 again. This application also implements foatng action button, navigation bar and drawer features in flutter.
+A counter application that counts how many times you press a button. You can restart the counter to start from 0 again. This application also implements floating action button, navigation bar and drawer features in flutter.
